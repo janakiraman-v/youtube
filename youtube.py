@@ -22,7 +22,7 @@ import isodate
 import isodate
 
 
-api = Api(api_key="AIzaSyCsWVlOilgxmrN9RVg4A6mOKVKiJcHdOXw")
+api = Api(api_key="AIzaSyBEwpniZXWiaeF95TND8zF1YClwJjepu-U")
 
 # CREATING A CONNECTION IN MONGODB
 client = pymongo.MongoClient("mongodb://localhost:27017")
